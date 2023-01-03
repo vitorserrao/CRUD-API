@@ -15,6 +15,6 @@ Junto com a integração com banco de dados (SQL).
 - [ASP.NET WEB API] 
 - [SQL]
 
-##### ✒️ Autor
+### ✒️ Autor
 
 - **Vitor Serrão** - (https://github.com/vitorwss)
