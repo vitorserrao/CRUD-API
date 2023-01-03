@@ -15,11 +15,6 @@ Junto com a integração com banco de dados (SQL).
 - [ASP.NET WEB API] 
 - [SQL]
 
-#### 📌 Versão : 1.2
-
-![alt text](https://github.com/vitorwss/-Projeto-To-do-list/blob/main/telas.png)
-
-
 ##### ✒️ Autor
 
 - **Vitor Serrão** - (https://github.com/vitorwss)
